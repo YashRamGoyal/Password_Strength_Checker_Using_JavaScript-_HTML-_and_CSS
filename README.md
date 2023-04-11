@@ -1,1 +1,3 @@
 # Password_Strength_Checker_Using_JavaScript-_HTML-_and_CSS
+
+This is a simple web application that allows users to check the strength of their passwords. The application is built using JavaScript, HTML, and CSS, and it includes a regular expression to check if the password meets the criteria for a strong password. The application displays the strength of the password as either "Weak Password", "Medium Password", or "Strong Password" depending on its complexity, and the color of the text changes accordingly. This application can be useful for websites and applications that require users to create strong passwords for security purposes.!
